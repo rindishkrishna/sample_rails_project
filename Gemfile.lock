@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/rindishkrishna/pg_activerecord_ext
+  revision: ee47dcf219d7afa4aa74d2368d7bf43877bd2ea3
+  branch: main
+  specs:
+    pg_activerecord_ext (0.0.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -163,6 +170,7 @@ DEPENDENCIES
   byebug
   listen (~> 3.3)
   pg (~> 1.1)
+  pg_activerecord_ext!
   puma (~> 5.0)
   rails (~> 6.1.7)
   spring

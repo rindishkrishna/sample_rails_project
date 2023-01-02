@@ -65,6 +65,7 @@
     <orderEntry type="library" scope="PROVIDED" name="nio4r (v2.5.8, RVM: ruby-2.7.3 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.13.10, RVM: ruby-2.7.3 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="pg (v1.4.5, RVM: ruby-2.7.3 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pg_activerecord_ext (v0.0.0@ee47dc, RVM: ruby-2.7.3 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="puma (v5.6.5, RVM: ruby-2.7.3 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="racc (v1.6.2, RVM: ruby-2.7.3 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v2.2.5, RVM: ruby-2.7.3 [global]) [gem]" level="application" />
